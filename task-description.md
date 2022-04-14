@@ -45,8 +45,8 @@ Here is the task that you need to do.
 
 ## Bonus: 
 1. Make the website meaningful and consistent in look and feel. Give your website a relevant name. Images and all the content of the website have to be appropriate. No `lorem ipsum` please.
-2. Meaningful `readme.md` file containing your website name, and link to your live site. And at least five bullet points mention your website's different features and functionality. And a list of technologies (frameworks, libraries) used in your project.
-3. Make the website responsive. Make sure the site looks different on desktop and mobile responsive. Tablet responsive is optional 
+2. Meaningful `readme.md` file containing your website name, and link to your live site. And at least five bullet points mentioning your website's different features and functionality. And a list of technologies (frameworks, libraries) used in your project.
+3. Make the `home` page of your website responsive. Make sure the site looks different on desktop and mobile responsive. Tablet responsive is optional.  
 4. Clean and organized Code. Organize components and add comments when needed
 5. Display error when user email address or password don't match. 
 6. Send Email Verification. Don't worry if the email goes to the spam folder or it doesn't go at all. As long as your code is there, you will be fine.
@@ -57,6 +57,7 @@ Here is the task that you need to do.
 1. Your checkout page will be a dynamic route with route parameter having the id of the service user created. In the checkout page, you will have a simple form that you will have fields for user name, user email address, address, and phone number. Once the user submits the form, you will display the  user, `thank you for the booking.`
 2. Use the Environment variable to hide the firebase key
 3. Add active routes to see which route you are.
+4. If possible, make the entire website responsive. Once you are done making the home page responsive, you wont need much things to do to make the entire website responsive. 
 
 ### Optional:
 1. For the Checkout page, you can use basic html form or any css library. However, we encourage you to try out the `react hook form`.
