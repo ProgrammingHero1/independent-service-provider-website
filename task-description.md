@@ -19,7 +19,7 @@ Here is the task that you need to do.
 
 7. Clicking on the button will take the user to the Checkout route. This route will be private/protected routes. Please make sure that the private route redirects to the login page if the user is not logged in. After login, the user will be redirected to the checkout page
 
-8. YOur checkout page will have a simple form that you will have fields for user name, user email address, address, and phone number. 
+8. You can put anything on the checkout page. If you want to do some extra optional work, please read the optional but highly recommended section of this description.
 
 9. If you reload the protected/private route (after login), this page will not redirect the user to the login page. Instead, it will keep the logged-in user on the protected route. 
 -------
@@ -51,8 +51,12 @@ Here is the task that you need to do.
 5. Display error when user email address or password don't match. 
 6. Send Email Verification. Don't worry if the email goes to the spam folder or it doesn't go at all. As long as your code is there, you will be fine.
 7. Add a link for Password reset (use toast)
-8. Use the Environment variable to hide the firebase key
-9. Add active routes to see which route you are.
+
+
+### Optional But Highly Recommended:
+1. Your checkout page will be a dynamic route with route parameter having the id of the service user created. In the checkout page, you will have a simple form that you will have fields for user name, user email address, address, and phone number. Once the user submits the form, you will display the  user, `thank you for the booking.`
+2. Use the Environment variable to hide the firebase key
+3. Add active routes to see which route you are.
 
 ### Optional:
 1. For the Checkout page, you can use basic html form or any css library. However, we encourage you to try out the `react hook form`.
