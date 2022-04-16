@@ -30,11 +30,11 @@ Here is the task that you need to do.
 ----
 13. Add two more routes. one route will be `blogs`. On the blog page, you will need to answer these three questions. This won't be a protected route
 
-    11.1 Difference between `authorization` and `authentication`
+    13.1 Difference between `authorization` and `authentication`
     
-    11.2 Why are you using `firebase`? What other options do you have to implement authentication?
+    13.2 Why are you using `firebase`? What other options do you have to implement authentication?
 
-    11.3 What other services does `firebase` provide other than authentication
+    13.3 What other services does `firebase` provide other than authentication
 
 
 14. You will create an about me page. It could be the `about` route. There will put your name and your image (picture is optional. However, if you put a photo, please put a professional look picture). And write a small paragraph (3-5 lines) about your goal. And how you will work hard to achieve your goal.  
